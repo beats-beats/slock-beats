@@ -1,4 +1,5 @@
 patches used:
+
 https://tools.suckless.org/slock/patches/alternate-colors/
 https://tools.suckless.org/slock/patches/mediakeys/
 https://tools.suckless.org/slock/patches/dpms/
