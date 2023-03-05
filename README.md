@@ -13,6 +13,7 @@ https://tools.suckless.org/slock/patches/xresources/
 ```
 git clone https://github.com/beats-exe/slock-beats.git
 cd slock-beats
+$EDITOR config.def.h # change the values of user and group to yours. group can be checked in /usr/group, nogroup = nobody
 sudo make clean install
 cd .. && rm -rfv slock-beats
 ```
