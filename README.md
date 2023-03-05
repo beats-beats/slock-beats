@@ -1,3 +1,9 @@
+patches used:
+https://tools.suckless.org/slock/patches/alternate-colors/
+https://tools.suckless.org/slock/patches/mediakeys/
+https://tools.suckless.org/slock/patches/dpms/
+https://tools.suckless.org/slock/patches/quickcancel/
+https://tools.suckless.org/slock/patches/xresources/
 ```
 git clone https://github.com/beats-exe/slock-beats.git
 cd slock-beats
